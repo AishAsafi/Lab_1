@@ -1,2 +1,27 @@
-xx
+
+commit b2dc9108c2177419308f33dc699d8b4a7791ae9d (HEAD -> master, origin/gitBranch, gitBranch)
+Author: Aisha <marena665@hotmail.com>
+Date:   Tue Nov 5 20:54:05 2019 +0100
+
+    create text file
+
+    commit bc949b05ca08ef9a7aacc2c116734b4733e15979 (origin/master)
+    Author: Aisha <marena665@hotmail.com>
+    Date:   Tue Nov 5 20:49:13 2019 +0100
+
+    :...skipping...
+    commit b2dc9108c2177419308f33dc699d8b4a7791ae9d (HEAD -> master, origin/gitBranch, gitBranch)
+    Author: Aisha <marena665@hotmail.com>
+    Date:   Tue Nov 5 20:54:05 2019 +0100
+
+        create text file
+
+	commit bc949b05ca08ef9a7aacc2c116734b4733e15979 (origin/master)
+	Author: Aisha <marena665@hotmail.com>
+	Date:   Tue Nov 5 20:49:13 2019 +0100
+
+	    create README
+
+
+
 
